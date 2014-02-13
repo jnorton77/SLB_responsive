@@ -15,7 +15,7 @@ img {
 
 h1 {
   font-size: 1.750em;
-  letter-spacing: -1.5px;
+  letter-spacing: -0.09375em;
 }
 
 h2 {
@@ -32,9 +32,9 @@ h3 {
 .btn {
   color: #FAF3BC;
   background: #4FB69F url('img/texture.png') no-repeat right top;
-  padding: 15px 30px;
-  margin: 40px 0px;
-  border-radius: 25px;
+  padding: 2.6% 5.21%;
+  margin: 6.96% 0%;
+  border-radius: 4.35%;
   text-transform: uppercase;
 }
 
@@ -43,14 +43,14 @@ h3 {
 }
 
 ul.nav {
-  margin: 50px 0 0 0;
+  margin: 7.575% 0 0 0;
   list-style: none;
   float: right;
 }
 
 ul.nav li {
   float: left;
-  margin-right: 100px;
+  margin-right: 15.1515%;
 }
 
 ul.nav li a {
@@ -59,16 +59,16 @@ ul.nav li a {
 
 #logo img {
   border: 8px solid #000000;
-  margin: 20px 0 0 0;
+  margin: 6.25% 0 0 0;
 }
 
 #intro {
-  margin: 10px 0 10px 0;
+  margin: 1.342% 0 1.342% 0;
 }
 
 #new-cupcakes img {
   border: 8px solid #FAF3BC;
-  margin: 0 0 20px 0;
+  margin: 0 0 4.938% 0;
 }
 
 #featured-cupcake img {
@@ -77,8 +77,8 @@ ul.nav li a {
 
 #copyright {
   border-top: 8px solid #2A0400;
-  padding: 10px 0px;
-  margin: 15px 0px;
+  padding: 1% 0%;
+  margin: 1.5% 0%;
   text-align: center;
 }
 
